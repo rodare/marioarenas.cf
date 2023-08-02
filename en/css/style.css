@@ -80,7 +80,7 @@ header .logo {
   position: relative;
   padding: 0px 0px 0px 4%;
 }
-@-webkit-keyframes glow {
+/*@-webkit-keyframes glow {
   from {
     text-shadow: 0 0 10px #696969, 0 0 20px #696969, 0 0 30px #696969, 0 0 40px #696969, 0 0 50px #696969;
   }
@@ -88,7 +88,7 @@ header .logo {
   to {
     text-shadow: 0 0 10px #b84308, 0 0 20px #b84308, 0 0 30px #b84308, 0 0 40px #b84308, 0 0 50px #b84308, 0 0 60px #b84308;
   }
-}
+}*/
 /* header .logo{
   font-weight: bolder;
   font-size: 38px;
